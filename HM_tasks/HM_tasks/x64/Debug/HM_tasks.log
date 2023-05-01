@@ -1,0 +1,3 @@
+﻿  Main.cpp
+D:\НМ\HM_tasks\HM_tasks\Main.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  HM_tasks.vcxproj -> D:\НМ\HM_tasks\x64\Debug\HM_tasks.exe
